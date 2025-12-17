@@ -1,0 +1,7 @@
+# DB Local
+/data/*.db
+/data/*.sqlite
+/data/*.sqlite3
+
+# Config local con rutas
+**/appsettings.Local.json
